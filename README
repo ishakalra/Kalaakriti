@@ -1,0 +1,6 @@
+• A robot drawing arm using Arduino UNO.
+• Captures an image and performs image processing techniques using MATLAB
+• Works on 20cm x 20cm plane to make line drawings.
+• Uses a pre-defined trigonometric formula to convert positional values to angular
+values which are then fed to servo motors
+• Uses a smart depth first search algorithm to connect all the points.
